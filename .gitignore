@@ -1,0 +1,6 @@
+# Terraform State and local files
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+crash.log

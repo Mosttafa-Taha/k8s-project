@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: springboot-backend
-          image: mariemsayed/springboot-backend:v1
+          image: mariemsayed/springboot-backend:latest
           ports:
             - containerPort: 8081
           env:
