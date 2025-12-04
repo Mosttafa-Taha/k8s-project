@@ -66,7 +66,9 @@ Metrics for project success (e.g., response time, system uptime, user adoption r
 
 [You can find the full project files here.](https://drive.google.com/file/d/1zEOvyRVZSOpoAfatgq_L52rsk8YwpFSp/view?usp=drive_link)
 
+[You can find the API Documentation here.](https://documenter.getpostman.com/view/41172354/2sB3dPRVAV)
 
+[You can find the Project presentation here.](https://building-a-containerized-u8n3ujb.gamma.site/)
 ## License
 
 This project is licensed under the **MIT License** – allowing free use, modification, and distribution with attribution.
