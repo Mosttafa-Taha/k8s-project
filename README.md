@@ -59,7 +59,7 @@ Metrics for project success (e.g., response time, system uptime, user adoption r
 
 ## Instructor
 
-**Ahmed Gamin**
+**Ahmed Gamil**
 
 
 ## Project Files
