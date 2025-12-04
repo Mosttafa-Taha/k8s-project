@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: mariemsayed/react-front:latest
+          image: mariemsayed/react-front-final
           ports:
             - containerPort: 3000
           env:

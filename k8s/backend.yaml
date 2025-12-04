@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: springboot-backend
-          image: mariemsayed/springboot-backend:latest
+          image: mariemsayed/springboot-backend-final
           ports:
             - containerPort: 8081
           env:
@@ -32,10 +32,6 @@ spec:
                 secretKeyRef:
                   name: mysql-secret
                   key: MYSQL_PASSWORD
-            - name: SPRING_JPA_HIBERNATE_DDL_AUTO
-              value: update
-            - name: SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT
-              value: org.hibernate.dialect.MySQL8Dialect
 ---
 apiVersion: v1
 kind: Service
