@@ -35,11 +35,11 @@ The system is built using Spring Boot, secured with **JWT authentication**, and 
 ## Roles & Responsibilities
 
 - **Mariem Sayed** : Development
-- **Haneen Akram** : Docker
-- **Mohamed essam** : Prometheus
-- **Abdelrahman Elginidy** :Grafana
+- **Haneen Akram** : k8s
+- **Mohamed essam** : Docker
+- **Abdelrahman Elginidy** : Terraform
 - **Mostafa Taha** : k8s
-- **George Ayman** : Terraform
+- **George Ayman** : Grafana 
 
 
 ## KPIs (Key Performance Indicators)
